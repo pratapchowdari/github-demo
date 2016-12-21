@@ -1,2 +1,4 @@
 Test Git Quick start demo
 This is change is in branch1
+These changes are on branch1 for second developer
+This is extra new line
